@@ -1,6 +1,7 @@
 # NetWise EVE-NG Images
 
-Free EVE-NG router & switch images collection for **NetWise Academy** students — organised in learning order, easy to find, easy to download.
+Free EVE-NG router & switch images collection 
+Organised in learning order, easy to find, easy to download.
 
 > 📁 **Where are the files?** The images are large, so they are stored on Google Drive.
 > This page is the catalogue: find the image you need below, click **Download**, and you will be redirected to Google Drive.
